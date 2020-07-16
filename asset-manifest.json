@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NaijaCovidTracker/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/NaijaCovidTracker/static/js/main.6610fa68.chunk.js",
+    "main.js.map": "/NaijaCovidTracker/static/js/main.6610fa68.chunk.js.map",
+    "runtime-main.js": "/NaijaCovidTracker/static/js/runtime-main.c7a3aea5.js",
+    "runtime-main.js.map": "/NaijaCovidTracker/static/js/runtime-main.c7a3aea5.js.map",
+    "static/js/2.98805c59.chunk.js": "/NaijaCovidTracker/static/js/2.98805c59.chunk.js",
+    "static/js/2.98805c59.chunk.js.map": "/NaijaCovidTracker/static/js/2.98805c59.chunk.js.map",
+    "index.html": "/NaijaCovidTracker/index.html",
+    "precache-manifest.da00d9f8efa650d4753501021d2a8533.js": "/NaijaCovidTracker/precache-manifest.da00d9f8efa650d4753501021d2a8533.js",
+    "service-worker.js": "/NaijaCovidTracker/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/NaijaCovidTracker/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.98805c59.chunk.js.LICENSE.txt": "/NaijaCovidTracker/static/js/2.98805c59.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7a3aea5.js",
+    "static/js/2.98805c59.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.6610fa68.chunk.js"
+  ]
+}
